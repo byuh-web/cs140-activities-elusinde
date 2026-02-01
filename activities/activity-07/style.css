@@ -1,0 +1,21 @@
+.font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.color1 {
+    color: #3f7bff;
+}
+.color2 {
+    color: #0038b5;
+}
+.color3 {
+    color: #00215b;
+}
+.color4 {
+    color: darkblue;
+}
+#fontsize {
+    font-size: x-large;
+}
+.highlight {
+    background-color: aquamarine;
+}
