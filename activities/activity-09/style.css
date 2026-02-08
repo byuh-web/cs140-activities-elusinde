@@ -1,0 +1,20 @@
+li{
+    list-style-image: url('sandy\ beach\ small.jpg');
+}
+.bluehl {
+    background-color: rgb(104, 196, 250);
+}
+#bluehl2 {
+    background-color: rgb(102, 46, 255);
+}
+body {
+    background-image:
+    url(background.jpg),
+    url(background2.jpg);
+     background-repeat:
+    no-repeat,
+    repeat;
+  background-position:
+    right top,
+    left top;
+}
