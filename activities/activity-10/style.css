@@ -1,8 +1,16 @@
-main p {
+.box1 {
     background-color: rgb(82, 82, 192);
     padding: 40px 20px 40px 20px;
     margin: 3rem 20px;
     border-color: darkblue;
     border-style: double;
     border-width: 0.5px;
+}
+.box2 {
+    background-color: rgb(82, 188, 192);
+    padding: 20px 40px 20px 40px;
+    margin: 3rem 20px;
+    border-color: rgb(0, 0, 0);
+    border-style: dashed;
+    border-width: 2px;
 }
